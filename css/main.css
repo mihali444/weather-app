@@ -76,7 +76,7 @@ body {
     flex-direction: column;
     row-gap: 20px;
     position: relative;
-    width: 360px;
+    width: 400px;
     padding: 30px;
     background-color: #fff;
     border-radius: 6px;
@@ -126,7 +126,7 @@ body {
 }
 
 .card-value {
-    font-size: 92px;
+    font-size: 82px;
     color: #000;
 }
 
